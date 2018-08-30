@@ -5,7 +5,7 @@ module.exports = (env) => {
         mode: env || 'production',
         entry: './src/app.js',
         // reszta konfiguracji
-        ...
+        //...
     }
 };
 module.exports = (env) => {
